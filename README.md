@@ -5,13 +5,11 @@ When we were beginning to learn JavaScript at The Iron Yard, this was the first 
 
 As a lover of video games, I immediately went the "game" route and created a hero and enemy object that can attack each other. Using console.log(), the effects on the properties of the objects is reflected. 
 
-Copy/paste the code into your console, take a look at the functions available to each object and have some fun!
-
 ###Instructions
 
 Copy the code from objectPlay.js and paste it into the browser console. You have the following available to you:
 
-A `hero` object with the
+A `hero` object with:
 - `.bellow()` method 
 - `.attack(target)` method - specify a target to attack (hint: try `enemy`!)
 - `.drink(target)` method - specify another object to drink (hint: try `wellOfLife`!)
