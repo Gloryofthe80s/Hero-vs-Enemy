@@ -1,4 +1,4 @@
-playingWithObjects
+Hero vs. Enemy
 ==================
 
 When we were beginning to learn JavaScript at The Iron Yard, this was the first assignment. There wasn't much more directive than: "make some objects and have them affect each other."
